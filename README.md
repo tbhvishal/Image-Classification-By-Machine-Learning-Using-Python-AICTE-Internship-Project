@@ -50,7 +50,7 @@ Follow the steps below to set up and run the application locally:
 
 1. **📥 Clone the Repository**:
    ```bash
-   git clone https://github.com/wthvishal/Image-Classification-By-Machine-Learning-Using-Python-AICTE-Internship-Project.git
+   git clone https://github.com/tbhvishal/Image-Classification-By-Machine-Learning-Using-Python-AICTE-Internship-Project.git
    cd Image-Classification-By-Machine-Learning-Using-Python-AICTE-Internship-Project
    ```
 
@@ -117,7 +117,7 @@ Image-Classification-By-Machine-Learning-Using-Python-AICTE-Internship-Project/
 
 - ⭐ **Star the Repository**: If you find this project helpful, please consider starring the repository on GitHub.
 - 🔗 **Share the Repository**: Share it with others who might find it useful, especially students working on their internship projects or learning image classification.
-- 👨‍💻 **Follow Me on GitHub**: Stay updated with my latest projects by following my GitHub profile: [wthvishal](https://github.com/wthvishal).
+- 👨‍💻 **Follow Me on GitHub**: Stay updated with my latest projects by following my GitHub profile: [tbhvishal](https://github.com/tbhvishal).
 
 ---
 
@@ -159,5 +159,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## **📧 Contact**
 
 For any queries or suggestions, feel free to reach out:
-- GitHub: [wthvishal](https://github.com/wthvishal)
+- GitHub: [tbhvishal](https://github.com/tbhvishal)
 - Email: [soon](soon)
