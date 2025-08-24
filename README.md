@@ -1,4 +1,7 @@
+
 # 🖼️ Image Classification by Machine Learning Using Python (AICTE Internship Project)
+---
+![test](test.png)
 
 This project is a **Streamlit application** designed to perform image classification using two powerful machine learning models: **MobileNetV2** and a custom **CIFAR-10 model**. The application allows users to upload images and receive predictions along with confidence scores. It features a user-friendly navigation bar for seamless switching between models and delivers real-time results. This app is ideal for educational purposes, showcasing the performance of state-of-the-art models, and practical use in various image classification scenarios.
 
